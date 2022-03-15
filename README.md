@@ -3,7 +3,8 @@
 - ✏️ Meu nome é Thiago Utsch Andrade
 - 🖥️ Faço Ciência da Computação 
 - 💬 Contate-me no e-mail: thiagoutsch11@gmail.com
-- 🧨 Pronomes: Ele/Dele
+
+##
 
 <div align="center">
   <a href="https://github.com/thiagoutsch">
