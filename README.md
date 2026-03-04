@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - ✏️ Meu nome é Thiago Utsch Andrade
-- 🖥️ Faço Ciência da Computação 
+- 🖥️ Formado Ciência da Computação 
 - 💬 Contate-me no e-mail: thiagoutsch11@gmail.com
 
 
